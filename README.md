@@ -1,4 +1,4 @@
-# Basic Git Commands
+# Mini Project: Basic Git Commands
 
 In this mini Project, I will create a step-by-step project to simulate the workflow of Tom and Jerry using Git and GitHub. This hands-on project will include installation of Git, setting up a GitHub respository, cloning the repository, creating branches, making changes, and merging those changes back into the main branch
 
